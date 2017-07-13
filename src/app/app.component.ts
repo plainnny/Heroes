@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
+<<<<<<< HEAD
   selector: 'my-app',
   template: `
     <h1>{{title}}</h1>
@@ -15,4 +16,12 @@ import { Component } from '@angular/core';
 
 export class AppComponent {
   title = 'Tour of Heroes';
+=======
+  selector: 'app-root',
+  templateUrl: './app.component.html',
+  styleUrls: ['./app.component.css']
+})
+export class AppComponent {
+  title = 'app';
+>>>>>>> chore: initial commit from @angular/cli
 }

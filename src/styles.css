@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* Master Styles */
 h1 {
   color: #369;
@@ -20,3 +21,6 @@ body, input[text], button {
 * {
   font-family: Arial, Helvetica, sans-serif;
 }
+=======
+/* You can add global styles to this file, and also import other style files */
+>>>>>>> chore: initial commit from @angular/cli
